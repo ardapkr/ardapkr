@@ -26,7 +26,7 @@ in back-end development, software testing, data quality and automotive software.
 **Back end:** Spring Boot · JPA · FastAPI · Django · REST APIs · PostgreSQL · SQLite<br>
 **Testing:** JUnit 5 · MockMvc · pytest · Vitest · Playwright<br>
 **Data / ML:** pandas · scikit-learn · PyTorch (learning)<br>
-**Tools:** Git · GitHub Actions · Docker<br>
+**Tools:** Git · GitHub Actions · Docker · Claude Code<br>
 **Spoken:** Turkish (native) · English (C1, IELTS 7.5)
 
 #### Contact
