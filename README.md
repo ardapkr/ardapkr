@@ -17,6 +17,7 @@ in back-end development, software testing, data quality and automotive software.
 | **[FairShare API](https://github.com/ardapkr/fairshare-api)** | REST API that splits shared expenses and settles up with the fewest payments. Money in cents, a greedy settle-up with at most n − 1 payments, problem-detail errors. | Java 25, Spring Boot, JPA, PostgreSQL, JUnit 5, Docker, GitHub Actions |
 | **[Crossing Data Explorer](https://github.com/ardapkr/crossing-data-explorer)** | pandas analysis of 21,468 OpenStreetMap crossing nodes: how safe Vienna's crossings are per district, and how much data is missing (82% have no kerb info). | Python, pandas, scikit-learn, shapely, Solara, pytest |
 | **[Label Noise Finder](https://github.com/ardapkr/label-noise-finder)** | Finds wrong labels in training data with out-of-fold predictions from a small CNN. Measured on MNIST with 5% injected label noise. | Python, PyTorch, matplotlib, pytest |
+| **[trackcheck](https://github.com/ardapkr/trackcheck)** | Command-line tool that checks GPS logs for out-of-order timestamps, gaps and jumps, then cleans and resamples them. On a noisy test walk the measured distance goes from 2,958 m to 806 m (true: ~810 m). | C++20, CMake, GoogleTest, Docker, CI on Linux + Windows |
 | **[Notable](https://github.com/ardapkr/notable_django)** | Notes app with a REST API, server-side validation and API tests. | Python, Django, Tastypie, JavaScript |
 
 #### Skills
