@@ -6,7 +6,7 @@ in back-end development, software testing, data quality and automotive software.
 
 - 🔭 Looking for a part-time internship or working-student role in Budapest
 - 🌱 Learning PyTorch and SQL; applied to be an OOP demonstrator (teaching assistant) at ELTE
-- 🏁 Hackathons in 2026: TELOS Hackathon (Vienna), Devin AI Hackathon (Budapest)
+- 🏁 Took part in two hackathons in 2026: TELOS Hackathon (Vienna), Devin AI Hackathon (Budapest)
 
 #### Projects
 
